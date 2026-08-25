@@ -1,0 +1,16 @@
+.DS_Store
+
+# Local generation and QA workspace
+/lich-king-3-package/
+/lich-king-3-gifs/
+/lich-king-3-gifs-no-outline/
+/lich-king-3d-final-v3/
+
+# Local helper scripts used to build and verify the published assets
+/close_gif_loops.py
+/export_clean_pet_gifs.py
+/make_direction_gif.py
+/reorder_direction_cells.py
+/rotate_direction_labels_180.py
+/verify_gif_no_chroma_outline.py
+/validation-publication.json
