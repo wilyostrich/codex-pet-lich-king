@@ -8,9 +8,11 @@ The Lich King is the lord and master of the Scourge, ruling it telepathically fr
 
 ## Animation showcase
 
-| `idle` | `running-right` | `running-left` | `waving` | `jumping` | `failed` | `waiting` | `running` | `review` | `look-directions` |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Idle animation](animations/idle.gif) | ![Running-right animation](animations/running-right.gif) | ![Running-left animation](animations/running-left.gif) | ![Waving animation](animations/waving.gif) | ![Jumping animation](animations/jumping.gif) | ![Failed animation](animations/failed.gif) | ![Waiting animation](animations/waiting.gif) | ![Running animation](animations/running.gif) | ![Review animation](animations/review.gif) | ![Look-directions animation](animations/look-directions.gif) |
+| `idle` | `running-right` | `running-left` | `waving` | `jumping` |
+| --- | --- | --- | --- | --- |
+| ![Idle animation](animations/idle.gif) | ![Running-right animation](animations/running-right.gif) | ![Running-left animation](animations/running-left.gif) | ![Waving animation](animations/waving.gif) | ![Jumping animation](animations/jumping.gif) |
+| `failed` | `waiting` | `running` | `review` | `look-directions` |
+| ![Failed animation](animations/failed.gif) | ![Waiting animation](animations/waiting.gif) | ![Running animation](animations/running.gif) | ![Review animation](animations/review.gif) | ![Look-directions animation](animations/look-directions.gif) |
 
 ## Install
 
