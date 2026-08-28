@@ -2,8 +2,6 @@
 
 An unofficial, fan-made Codex v2 pet inspired by the Lich King from **World of Warcraft: Wrath of the Lich King**. It was made by a fan, for fans.
 
-If the words **“I have gained power that my father could never have dreamed of”** mean something to you, this pet is for you.
-
 The Lich King is the lord and master of the Scourge, ruling it telepathically from the Frozen Throne atop Icecrown Citadel. This pet keeps his cinematic silhouette: dark runic plate armor, a crown-like spiked helm, cold blue eyes, a heavy black-and-blue cloak, and an icy runeblade held only in his right hand.
 
 ## Animation showcase
