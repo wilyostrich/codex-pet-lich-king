@@ -8,18 +8,9 @@ The Lich King is the lord and master of the Scourge, ruling it telepathically fr
 
 ## Animation showcase
 
-| Animation | Preview |
-| --- | --- |
-| Idle | ![Idle animation](animations/idle.gif) |
-| Running right | ![Running-right animation](animations/running-right.gif) |
-| Running left | ![Running-left animation](animations/running-left.gif) |
-| Waving | ![Waving animation](animations/waving.gif) |
-| Jumping | ![Jumping animation](animations/jumping.gif) |
-| Failed | ![Failed animation](animations/failed.gif) |
-| Waiting | ![Waiting animation](animations/waiting.gif) |
-| Working | ![Working animation](animations/running.gif) |
-| Review | ![Review animation](animations/review.gif) |
-| Look directions | ![Look-direction animation](animations/look-directions.gif) |
+| `idle` | `running-right` | `running-left` | `waving` | `jumping` | `failed` | `waiting` | `running` | `review` | `look-directions` |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ![Idle animation](animations/idle.gif) | ![Running-right animation](animations/running-right.gif) | ![Running-left animation](animations/running-left.gif) | ![Waving animation](animations/waving.gif) | ![Jumping animation](animations/jumping.gif) | ![Failed animation](animations/failed.gif) | ![Waiting animation](animations/waiting.gif) | ![Running animation](animations/running.gif) | ![Review animation](animations/review.gif) | ![Look-directions animation](animations/look-directions.gif) |
 
 ## Install
 
@@ -50,7 +41,7 @@ Restart Codex if the custom-pet list does not refresh automatically.
 - Cell size: 192 × 208 pixels
 - Atlas size: 1536 × 2288 pixels
 - Background: transparent
-- Standard animation rows: idle, running right, running left, waving, jumping, failed, waiting, working, and review
+- Standard animation rows: `idle`, `running-right`, `running-left`, `waving`, `jumping`, `failed`, `waiting`, `running`, and `review`
 - Look-direction frames: 16
 
 ## Fan-project notice
